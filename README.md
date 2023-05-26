@@ -4,4 +4,4 @@ Este jogo foi feito durante uma Game Jam e seu código está extremamente macarr
 
 Some of the codes are in Portuguese. You can find it and play it on (Portuguese-only): https://gamejolt.com/games/cifra/569637
 
-PS: I worked on it as the game designer and writer. My intentions with this fork is to eventually make a better version of the current game before start remaking it.
+PS: I worked on it as the game designer and writer. My intentions with this fork is to eventually make a better version of the current game (including adding English) before start remaking it.
